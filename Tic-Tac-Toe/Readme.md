@@ -32,6 +32,6 @@ Everything is in one file:
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript 
 
 
